@@ -1,5 +1,5 @@
 {
-  "name": "p2p.chat",
+  "name": "selftest.chat",
   "version": "0.2.8",
   "description": "P2P Video Chat",
   "main": "webpack.config.js",
